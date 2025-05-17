@@ -1,0 +1,38 @@
+## Theory Session - FN
+
+This session was conducted by Dr. Sini S. Nair, Scientist D, NIELIT Calicut.
+
+### The following topics were discussed:
+
+- What is virtualization?
+- How it differs from traditional architecture
+- Hypervisor and its functionalities
+- Virtualization architecture
+- Types of virtualization
+- Advantages and disadvantages of different types of virtualization
+- Network configurations of virtual machines
+
+In the last part of the session, Dr. Sini S. Nair ma'am demonstrated the deployment of a Kali Linux virtual machine in VirtualBox.
+
+---
+
+## Practical Session - AN
+
+In the practical session, interns were tasked with deploying a **Kali Linux** virtual machine using Oracle VirtualBox.
+
+This session was conducted by **Arun Mohan Sir**.
+
+### Tasks Done:
+
+**Kali Installation:**
+
+- Oracle VirtualBox was installed on the given systems
+- The Kali image file was downloaded from the Kali.org site
+- The Kali image was loaded into the virtual machine with the necessary configurations
+- Network configuration was done to enable internet access on the machine
+
+**Bandit Game:**
+
+Arun Mohan Sir introduced a website called **“Bandit OverTheWire”**.
+
+This gamified platform helps users learn Linux commands and become fluent with them.
